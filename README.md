@@ -1,18 +1,18 @@
 # Global Electronics Retailer — SQL & Power BI Analysis
 
-## 📊 Project Overview
+## Project Overview
 
 An end-to-end sales analytics project using SQL and Power BI to analyze the performance of a global electronics retailer.
 
 The project covers data preparation, exploratory analysis, KPI development, advanced SQL analysis, data modeling, DAX calculations, and interactive business intelligence dashboards.
 
-## 🎯 Business Problem
+## Business Problem
 
 The retailer wants to understand its overall sales and profitability performance across products, customers, countries, and stores.
 
 The analysis focuses on identifying key revenue and profit drivers, understanding performance trends over time, and highlighting high and low performing areas to support better business decisions.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - MySQL
 - SQL
@@ -20,7 +20,7 @@ The analysis focuses on identifying key revenue and profit drivers, understandin
 - DAX
 - Power Query
 
-## 📁 Project Structure
+## Project Structure
 
 ### SQL Analysis
 
@@ -66,7 +66,7 @@ The analysis focuses on identifying key revenue and profit drivers, understandin
 - Store area analysis
 - Product rankings
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
 The Power BI dashboard contains five analytical pages:
 
@@ -80,18 +80,18 @@ The dashboard uses a relational data model with **Sales** as the central fact ta
 
 A dedicated **Calendar** table is used for time-based analysis and YTD/PYTD calculations.
 
-## 💡 Key Insights
+## Key Insights
 
 - Revenue fell **75.28%** in Jan–Feb 2021 compared with Jan–Feb 2020, indicating a sharp decline in overall business performance.
 - The United States accounts for **42.48%** of total revenue, making it the largest revenue-generating market.
 - Offline sales dominate, contributing **79.31%** of total revenue, while online sales account for **20.69%**.
 - Computers dominate category revenue at **37.21%**, followed by Cell Phones (**14.31%**) and Home Appliances (**13.63%**).
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Global Electronics Retailer Dashboard](Dashboard%20Preview.png)
 
-## 🔍 Key Concepts Used
+## Key Concepts Used
 
 ### SQL
 
@@ -118,10 +118,10 @@ A dedicated **Calendar** table is used for time-based analysis and YTD/PYTD calc
 - Data Visualization & Dashboard Design
 - Power Query
 
-## 📌 Dataset
+## Dataset
 
 The project uses the **Global Electronics Retailer** dataset from Maven Analytics.
 
-## 👤 Author
+## Author
 
 **Ayush Narang**
